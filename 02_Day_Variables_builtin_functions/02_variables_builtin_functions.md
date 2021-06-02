@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 10 Days Of Python: Day 2 - Variables, Builtin Functions</h1>
-  <!-- <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
@@ -13,7 +13,7 @@
 </sub>
 
 </div>
-</div> -->
+</div>
 
 [<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
 
