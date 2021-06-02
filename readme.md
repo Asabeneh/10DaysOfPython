@@ -27,17 +27,6 @@
   - [💻 Exercises - Day 1](#-exercises---day-1)
     - [Exercise: Level 1](#exercise-level-1)
     - [Exercise: Level 2](#exercise-level-2)
-- [Day 2](#day-2)
-  - [Builtin Functions](#builtin-functions)
-  - [Variables](#variables)
-- [Day 3](#day-3)
-- [Day 4](#day-4)
-- [Day 5](#day-5)
-- [Day 6](#day-6)
-- [Day 7](#day-7)
-- [Day 8](#day-8)
-- [Day 9](#day-9)
-- [Day 10](#day-10)
 
 |   # Day   | Topics                                                    |
 |-----------|:--------------------------------------------------------------------------------------------------- |
@@ -409,24 +398,5 @@ To run the python file check the image below. You can run the python file either
 
 🎉 CONGRATULATIONS ! 🎉
 
-# Day 2
 
-## Builtin Functions
-
-## Variables
-
-# Day 3
-
-# Day 4
-
-# Day 5
-
-# Day 6
-
-# Day 7 
-
-# Day 8
-
-# Day 9
-
-# Day 10
+ [Day 2 >>](../02_Day_Operators/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
