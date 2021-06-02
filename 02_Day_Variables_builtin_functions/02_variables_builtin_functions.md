@@ -9,7 +9,7 @@
 
 <sub>Author:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> First Edition: Nov 22 - Dec 22, 2019</small>
+<small> First Edition: June 1, 2021</small>
 </sub>
 
 </div>
