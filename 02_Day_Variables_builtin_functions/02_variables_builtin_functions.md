@@ -51,6 +51,38 @@ I believe, by now you are familiar with built-in functions. Let's do one more pr
 
 ![Min Max Sum](../images/builtin-functional-final.png)
 
+
+
+```py
+print('Welcome to 10 Days Of Python challenge')
+print('I', 'love', 'Python')
+print(len('Python')) # to check the length of the tex
+print(type('Python'))  # str
+print(type(10))  # int
+print(type(9.81)) # float
+print(type(1 + 1j)) # complex
+print(input('Enter your name: ')) # takes user input
+print(abs(-2))  # 2
+print(sum([1, 2, 3])) # 6
+print(max(1, 2, 3))  # 3
+print(min(1, 2, 3))  # 1
+print(range(10))  # range(0, 9)
+print(range(1, 10)) # range(1, 9)
+print(int('2') + 2) # 4
+print(str('2') + '2') # 22
+print(int(9.81) + 1) # 10
+print(float(4))  # 4.0
+print(float('9.81'))  # 9.81
+print(id(0))  # generate id
+print(id(1))  # generate different id
+print(dir('agument')) # gives methods of any python object
+print(round(3.14)) # 3
+print(round(3.14, 1)) # 3.1
+print(round(9.81))  # 10
+print(round(9.81, 1)) # 9.8
+
+```
+
 ## Variables
 
 Variables store data in a computer memory. Mnemonic variables are recommended to use in many programming languages. A variable refers to a memory address in which data is stored.
