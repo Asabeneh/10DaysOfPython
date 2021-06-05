@@ -28,18 +28,6 @@
     - [Exercise: Level 1](#exercise-level-1)
     - [Exercise: Level 2](#exercise-level-2)
 
-|   # Day   | Topics                                                    |
-|-----------|:--------------------------------------------------------------------------------------------------- |
-|  01   |  [Introduction - Installing Python  - Writing Python Script  - Installing VScode  - Writing Python Scripts on VSCode](./readme.md)|
-|  02 |  [Built-in Functions, Variables]()|
-|  03 |  [Data types, type conversion, Operators]()|
-|  04 |  [Strings]()|
-|  05 |  [Modules]() |
-|  06 |  [Conditionals]() |
-|  07 |  [Lists]()|
-|  08 |  [Loops]()|
-|  09 |  [Sets,Tuples, Dictionaries]()|
-| 10  |  [Functions, docstrings, Lambda Function, Higher Order Function]()|
 
 # 📘 Day 1
 
